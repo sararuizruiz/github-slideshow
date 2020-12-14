@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Listen to Yourself!
 
 Use the left arrow to go back!
